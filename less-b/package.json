@@ -1,0 +1,14 @@
+{
+  "name": "treefuck-less-test-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "treefuck",
+  "license": "ISC",
+  "dependencies": {
+    "treefuck-less-test-a": "2.0.0"
+  }
+}
